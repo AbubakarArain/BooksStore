@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25aed25a_002D6872_002D44f7_002D94d7_002D064637d6fc26/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenRequestToGetAllBooks_ThenAllBooksAreReturned #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksControllerTests.GivenRequestToGetAllBooks_ThenAllBooksAreReturned&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a81301a2_002Dc95c_002D4434_002Da7fc_002D8b1a118472b8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GivenRequestToGetAllBooks_ThenAllBooksAreReturned" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksControllerTests.GivenRequestToGetAllBooks_ThenAllBooksAreReturned&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d569877a_002Dce0f_002D41c9_002D8988_002D0834ad3227f1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.DatabaseLogicTests.GivenRequestToGetAllBooks_ThenGetAllIsCalled&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksControllerTests.GivenRequestToGetBookById_ThenTheBookIsReturned&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksControllerTests.GivenRequestToAddedANewBook_ThenTheBookIsAdded&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksControllerTests.GivenRequestToUpdateABook_ThenTheBookIsUpdated&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksDatabaseTests.GivenRequestToCreateABook_ThenTheBookIsAddedToDatabase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksDatabaseTests.GivenRequestToGetAllBooks_ThenDatabaseReturnsAllBooks&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksDatabaseTests.GivenRequestToGetAllBooksWithFilter_ThenDatabaseReturnsFilteredBooks&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksDatabaseTests.GivenRequestToGetAllBooks_ThenDatabaseReturnsAllBooks1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1B2A5CE6-D397-490B-B5EC-58EF0B8DA6F7::net6.0::BookStore.UnitTests.BooksDatabaseTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

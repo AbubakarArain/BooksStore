@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookStore.Api</name>
+    </assembly>
+    <members>
+        <member name="M:BookStore.Controllers.BooksController.GetAll(System.String)">
+            <summary>
+            Get all books
+            </summary>
+        </member>
+        <member name="M:BookStore.Controllers.BooksController.Get(System.Int32)">
+            <summary>
+            Get a book by Id
+            </summary>
+        </member>
+        <member name="M:BookStore.Controllers.BooksController.Post(BookStore.Models.BooksModel)">
+            <summary>
+            Create a new book
+            </summary>
+        </member>
+        <member name="M:BookStore.Controllers.BooksController.Update(BookStore.Models.BooksModel)">
+            <summary>
+            Update a book
+            </summary>
+        </member>
+        <member name="M:BookStore.Controllers.BooksController.Delete(System.Int32)">
+            <summary>
+            Delete a book
+            </summary>
+        </member>
+    </members>
+</doc>

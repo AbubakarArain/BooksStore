@@ -1,0 +1,70 @@
+{
+  "booksModel": [
+    {
+      "id": 0,
+      "author": "A. A. Milne",
+      "title": "Winnie-the-Pooh",
+      "price": 19.25
+    },
+    {
+      "id": 1,
+      "author": "Jane Austen",
+      "title": "Pride and Prejudice",
+      "price": 5.49
+    },
+    {
+      "id": 2,
+      "author": "William Shakespeare",
+      "title": "Romeo and Juliet",
+      "price": 6.95
+    },
+    {
+      "id": 3,
+      "author": "Abubakar Arain",
+      "title": "Abu's Book",
+      "price": 10.95
+    },
+    {
+      "id": 4,
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "price": 18.99
+    },
+    {
+      "id": 5,
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "price": 18.99
+    },
+    {
+      "id": 6,
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "price": 18.99
+    },
+    {
+      "id": 7,
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Goblet of Fire",
+      "price": 21.95
+    },
+    {
+      "id": 8,
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "price": 25.95
+    },
+    {
+      "id": 9,
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "price": 25.95
+    },
+    {
+      "id": 10,
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Deathly Hallows",
+      "price": 26.95
+    }
+  ]
+}
