@@ -11,13 +11,13 @@ Click the run button in rider (used to create this project) or in visual studio 
 
 ### How to run the tests
 
-I have written tests for controller, service and database layer.
+I have written tests for controller, service and database layer
 
 1. Controller - these mock the service layer and assert against mocked data
 2. Service - these mock the database layer and assert against mocked data
 3. Database - these test against the database data, so I only wrote 2 tests to test the get methods as testing create, update and delete would require altering the database and therefore be flaky
 
-The reason the tests are setup the way described above is because I was exploring the best solution to use for my database, and in the process ended up having testable logic in the database layer and could not test in a meaningful way the controller and service layer because it contains little to no logic to against test. However, in production level, both controller and service layer would have meaningful logic that we can test against, such as mapping, filtering, validation etc.
+The reason the tests are setup the way described above is because I was exploring the best solution to use for my database, and in the process ended up having testable logic in the database layer and could not test in a meaningful way the controller and service layer because it contains little to no logic to test against. However, in production level, both controller and service layer would have meaningful logic that we can test against, such as mapping, filtering, validation etc.
 
 ### Assumption made
 
